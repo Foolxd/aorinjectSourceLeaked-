@@ -3,7 +3,7 @@
 
 --- Leaked By Rizy and Tokyo
 
-getgenv().keybind = "q"
+getgenv().keybind = "e"
 getgenv().prediction = 0.1258
 getgenv().ballistics = 0.35
 getgenv().smoothness = 11
